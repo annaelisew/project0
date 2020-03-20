@@ -1,0 +1,79 @@
+h1 {
+	color: #45ac2f;
+	text-align: center;
+}
+
+.navi {
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+
+#grad {
+	background: red;
+	background: -webkit-linear-gradient(left, red, orange , yellow, green, cyan, blue, violet);
+	background: -o-linear-gradient(right, red, orange, yellow, green, cyan, blue, violet);
+	background: -moz-linear-gradient(right, red, orange, yellow, green, cyan, blue, violet);
+	background: linear-gradient(to right, red, orange , yellow, green, cyan, blue, violet);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-size: 20vw;
+}
+
+
+#listtitle {
+	font-size: 60px;
+	font-style: italic;
+}
+
+.deceased {
+	color: red;
+}
+
+#unorderedlist {
+	text-align: center;
+	font-size: 50px;
+}
+
+#secondpage {
+	text-align: center;
+	font-family: 'Noto Sans SC', sans-serif;
+}
+
+#thirdpage {
+	font-family: 'Caveat', cursive;
+	text-align: center;
+}
+
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.form {
+	margin: 20px;
+}
+
+h4, h3 {
+	margin: 40px;
+}
+
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	margin: 50px;
+}
+
+td, th {
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 14px;
+	border: 1px dotted black;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+th {
+	background-color: #45ac2f;
+}
