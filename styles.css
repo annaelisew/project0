@@ -32,6 +32,7 @@ h1 {
 #unorderedlist {
 	text-align: center;
 	font-size: 50px;
+	margin: 40px;
 }
 
 #secondpage {
@@ -56,7 +57,7 @@ h1 {
 }
 
 h4, h3 {
-	margin: 40px;
+	padding: 40px;`
 }
 
 table {
